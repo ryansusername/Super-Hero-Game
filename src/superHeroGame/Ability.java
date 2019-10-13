@@ -1,0 +1,5 @@
+package superHeroGame;
+
+public enum Ability {
+	FAST_SLEEP,SLOW_ENERGY,SLOW_CRIME,MORE_MONEY,MORE_STATUS,INSTANTSUPERSTATUS;
+}
